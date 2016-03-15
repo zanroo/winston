@@ -1,7 +1,7 @@
 {
   "name": "@zanroo/winston",
   "description": "winstonjs/winston forked",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "Jarrett Cruger <jcrugzz@gmail.com>",
