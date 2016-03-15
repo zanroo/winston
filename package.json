@@ -1,7 +1,7 @@
 {
-  "name": "winston",
-  "description": "A multi-transport async logging library for Node.js",
-  "version": "2.2.0",
+  "name": "@zanroo/winston",
+  "description": "winstonjs/winston forked",
+  "version": "1.0.0",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "Jarrett Cruger <jcrugzz@gmail.com>",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/winstonjs/winston.git"
+    "url": "https://github.com/zanroo/winston.git"
   },
   "keywords": [
     "winston",
